@@ -23,3 +23,8 @@ lightweight and easily tunable.
 ```bash
 git clone https://github.com/Laboratory-CCPS/pem-fc-ampc.git
 cd pem-fc-ampc
+```
+
+### Acknowledgment
+The Code in this repository was produced as part of the KI-Embedded project of the German Federal Ministry of Economic Affairs and Climate Action (BMWK).
+The authors and maintainers acknowledge funding of the KI-Embedded project of the BMWK.
