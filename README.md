@@ -28,6 +28,6 @@ cd pem-fc-ampc
 An example of the code on a working fuel-cell MPC can be found in [Fuel_Cell_AMPC.ipynb](Fuel_Cell_AMPC.ipynb)
 A shorter test script can be found under [test_suh_mpc.py](test_suh_mpc.py).
 
-### Acknowledgment
+## Acknowledgment
 The Code in this repository was produced as part of the KI-Embedded project of the German Federal Ministry of Economic Affairs and Climate Action (BMWK).
 The authors and maintainers acknowledge funding of the KI-Embedded project of the BMWK.
